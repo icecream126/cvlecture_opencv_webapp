@@ -1,14 +1,14 @@
-asgiref @ file:///tmp/build/80754af9/asgiref_1605055780383/work
+asgiref
 certifi==2020.12.5
-Django @ file:///tmp/build/80754af9/django_1609784082548/work
+Django
 mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+numpy
 olefile==0.46
-Pillow @ file:///C:/ci/pillow_1609786840597/work
-psycopg2 @ file:///C:/ci/psycopg2_1608147681824/work
-pytz @ file:///tmp/build/80754af9/pytz_1608922264688/work
-six @ file:///C:/ci/six_1605187374963/work
-sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+Pillow
+psycopg2
+pytz
+six
+sqlparse
 wincertstore==0.2
